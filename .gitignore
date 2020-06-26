@@ -2,3 +2,5 @@
 *.lnk
 
 /bin/PS2EXE-GUI
+
+/assets/
