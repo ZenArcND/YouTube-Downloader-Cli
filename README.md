@@ -45,8 +45,6 @@ This project has two external dependencies
         |bin  
             downloader.ps1  
             ffmpeg.exe  
-            ffplay.exe  
-            ffprobe.exe  
             youtube-dl.exe  
         |res  
         shortcut.lnk
